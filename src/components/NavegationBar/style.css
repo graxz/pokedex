@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  height: 100px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 20px 0px 20px;
+  align-items: center;
+}
+
+.navbar-img {
+  width: 160px;
+}
